@@ -1,0 +1,21 @@
+C:\Users\Peyton seabolt\Desktop\C# HW 5\SeaboltMatrix\SeaboltMatrix\bin\Debug\SeaboltMatrix.exe.config
+C:\Users\Peyton seabolt\Desktop\C# HW 5\SeaboltMatrix\SeaboltMatrix\bin\Debug\SeaboltMatrix.exe
+C:\Users\Peyton seabolt\Desktop\C# HW 5\SeaboltMatrix\SeaboltMatrix\bin\Debug\SeaboltMatrix.pdb
+C:\Users\Peyton seabolt\Desktop\C# HW 5\SeaboltMatrix\SeaboltMatrix\obj\Debug\SeaboltMatrix.csprojResolveAssemblyReference.cache
+C:\Users\Peyton seabolt\Desktop\C# HW 5\SeaboltMatrix\SeaboltMatrix\obj\Debug\SeaboltMatrix.Form1.resources
+C:\Users\Peyton seabolt\Desktop\C# HW 5\SeaboltMatrix\SeaboltMatrix\obj\Debug\SeaboltMatrix.Properties.Resources.resources
+C:\Users\Peyton seabolt\Desktop\C# HW 5\SeaboltMatrix\SeaboltMatrix\obj\Debug\SeaboltMatrix.csproj.GenerateResource.Cache
+C:\Users\Peyton seabolt\Desktop\C# HW 5\SeaboltMatrix\SeaboltMatrix\obj\Debug\SeaboltMatrix.exe
+C:\Users\Peyton seabolt\Desktop\C# HW 5\SeaboltMatrix\SeaboltMatrix\obj\Debug\SeaboltMatrix.pdb
+C:\Users\Peyton seabolt\Desktop\C# HW 7\SeaboltMatrix\SeaboltMatrix\bin\Debug\SeaboltMatrix.exe.config
+C:\Users\Peyton seabolt\Desktop\C# HW 7\SeaboltMatrix\SeaboltMatrix\obj\Debug\SeaboltMatrix.exe
+C:\Users\Peyton seabolt\Desktop\C# HW 7\SeaboltMatrix\SeaboltMatrix\obj\Debug\SeaboltMatrix.pdb
+C:\Users\Peyton seabolt\Desktop\C# HW 7\SeaboltMatrix\SeaboltMatrix\obj\Debug\SeaboltMatrix.csprojResolveAssemblyReference.cache
+C:\Users\Peyton seabolt\Desktop\C# HW 7\SeaboltMatrix\SeaboltMatrix\obj\Debug\SeaboltMatrix.Form1.resources
+C:\Users\Peyton seabolt\Desktop\C# HW 7\SeaboltMatrix\SeaboltMatrix\obj\Debug\SeaboltMatrix.Properties.Resources.resources
+C:\Users\Peyton seabolt\Desktop\C# HW 7\SeaboltMatrix\SeaboltMatrix\obj\Debug\SeaboltMatrix.csproj.GenerateResource.Cache
+C:\Users\Peyton seabolt\Desktop\C# HW 7\SeaboltMatrix\SeaboltMatrix\bin\Debug\SeaboltMatrix.exe
+C:\Users\Peyton seabolt\Desktop\C# HW 7\SeaboltMatrix\SeaboltMatrix\bin\Debug\SeaboltMatrix.pdb
+E:\C#\C# HW 7\SeaboltMatrix\SeaboltMatrix\bin\Debug\SeaboltMatrix.exe.config
+E:\C#\C# HW 7\SeaboltMatrix\SeaboltMatrix\obj\Debug\SeaboltMatrix.exe
+E:\C#\C# HW 7\SeaboltMatrix\SeaboltMatrix\obj\Debug\SeaboltMatrix.pdb
